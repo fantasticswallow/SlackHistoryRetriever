@@ -1,0 +1,2 @@
+# SlackHistoryRetriever
+Slackのメッセージを保存する
